@@ -2,4 +2,6 @@
 
 env.COMPONENT="dispatch"
 env.APP_TYPE="golang"
-python()
+// python()  : We are doing a wrong functioncall 
+golang()
+
